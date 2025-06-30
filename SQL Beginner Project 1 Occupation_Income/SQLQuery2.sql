@@ -1,0 +1,6 @@
+SELECT TOP (1000) [EmployeeID]
+      ,[FirstName]
+      ,[LastName]
+      ,[Age]
+      ,[Gender]
+  FROM [SQL Tutorial on Occupation/Income].[dbo].[EmployeeDemographics]
